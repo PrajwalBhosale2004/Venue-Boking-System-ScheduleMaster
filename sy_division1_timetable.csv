@@ -1,0 +1,41 @@
+day,start_time,end_time,subject,venue,teacher
+Monday,9,10,dasad,203,bfd
+Monday,10,11,dasad,203,bfd
+Monday,11,13,asda,203,assa
+Monday,11,13,asda,203,assa
+Monday,12,13,Lunch Break,,
+Monday,13,14,assaa,203,dbd
+Monday,14,15,assaa,203,dbd
+Monday,15,16,asad,203,dfd
+Tuesday,9,10,dasdas,203,fngnfg
+Tuesday,10,11,dasdas,203,fngnfg
+Tuesday,11,13,dssaas,203,adssad
+Tuesday,11,13,dssaas,203,adssad
+Tuesday,12,13,Lunch Break,,
+Tuesday,13,14,,,
+Tuesday,14,15,,,
+Tuesday,15,16,,,
+Wednesday,9,10,assaa,203,dbd
+Wednesday,10,11,dvsd,203,fdbd
+Wednesday,11,13,dasasd,203,gfg
+Wednesday,11,13,dasasd,203,gfg
+Wednesday,12,13,Lunch Break,,
+Wednesday,13,14,dvsd,203,fdbd
+Wednesday,14,15,dvsd,203,fdbd
+Wednesday,15,16,asad,203,dfd
+Thursday,9,10,dasdas,203,fngnfg
+Thursday,10,11,,,
+Thursday,11,13,None-Lab,,
+Thursday,11,13,None-Lab,,
+Thursday,12,13,Lunch Break,,
+Thursday,13,14,,,
+Thursday,14,15,,,
+Thursday,15,16,,,
+Friday,9,10,dasad,203,bfd
+Friday,10,11,assa,203,fngnfg
+Friday,11,13,asddas,203,fddf
+Friday,11,13,asddas,203,fddf
+Friday,12,13,Lunch Break,,
+Friday,13,14,assa,203,fngnfg
+Friday,14,15,dasdas,203,fngnfg
+Friday,15,16,,,

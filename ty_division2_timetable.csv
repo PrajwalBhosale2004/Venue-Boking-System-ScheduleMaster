@@ -1,0 +1,38 @@
+day,start_time,end_time,subject,venue,teacher
+Monday,9,10,cscsc,204,dwdas
+Monday,10,11,dsadas,204,ddas
+Monday,11,12,,,
+Monday,12,13,Lunch Break,,
+Monday,13,15,,,
+Monday,15,16,dasdsa,204,
+Monday,16,17,asddas,204,
+Tuesday,9,10,dsadas,204,ddas
+Tuesday,10,11,,,
+Tuesday,11,12,,,
+Tuesday,12,13,Lunch Break,,
+Tuesday,13,15,dasdas,,
+Tuesday,15,16,,,
+Tuesday,16,17,,,
+Wednesday,9,10,,,
+Wednesday,10,11,,,
+Wednesday,11,12,,,
+Wednesday,12,13,Lunch Break,,
+Wednesday,13,15,,,
+Wednesday,15,16,,,
+Wednesday,16,17,,,
+Thursday,9,10,cscsc,204,dwdas
+Thursday,10,11,cscsc,204,dwdas
+Thursday,11,12,,,
+Thursday,12,13,Lunch Break,,
+Thursday,13,15,casacs,,
+Thursday,15,16,dsadas,204,ddas
+Thursday,16,17,dsadas,204,ddas
+Thursday,17,18,Honors,,
+Friday,9,10,dasdsa,204,
+Friday,10,11,dasdsa,204,
+Friday,11,12,,,
+Friday,12,13,Lunch Break,,
+Friday,13,15,dasads,,adsdas
+Friday,15,16,,,
+Friday,16,17,,,
+Friday,17,18,Honors,,
